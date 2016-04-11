@@ -10,6 +10,7 @@ gem 'thin'
 gem 'shotgun'
 gem 'tux'
 gem 'pry'
+gem 'pry-nav'
 
 group :test do
   gem 'rspec'
